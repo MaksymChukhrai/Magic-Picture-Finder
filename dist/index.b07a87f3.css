@@ -139,7 +139,7 @@ summary {
   position: relative;
 }
 
-.search-icon {
+button.search-icon {
   background-color: #0000;
   background-size: contain;
   border: none;
@@ -149,7 +149,7 @@ summary {
   position: absolute;
   top: 50%;
   left: 180px;
-  transform: translateX(-50%);
+  transform: translateY(-70%)translateX(-40%);
 }
 
 .search-input {

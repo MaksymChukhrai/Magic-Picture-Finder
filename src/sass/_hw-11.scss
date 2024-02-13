@@ -18,13 +18,12 @@
   margin-right: auto;
 }
 
-.search-icon {
+button.search-icon {
   padding:0;
   position: absolute;
   top: 50%;
   left: 180px;
-  transform: translateY(-70%);
-  transform: translateX(-50%);
+  transform: translateY(-70%) translateX(-40%);
   width: 30px;
   height: 30px;
   background-size: contain;
